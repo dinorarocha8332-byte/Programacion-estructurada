@@ -1,0 +1,9 @@
+Los arreglos son útiles porque nos facilitan almacenar un conjunto de datos 
+en una sola estructura, evitando tener que declarar muchas variables. 
+Además, nos ayudan a organizar la información de manera ordenada, ya que 
+cada dato se almacena en una posición específica.
+
+Otra ventaja de los arreglos es que permiten trabajar con grandes cantidades 
+de información de forma más eficiente, especialmente cuando se utilizan 
+estructuras repetitivas como ciclos for o while para recorrerlos.
+
