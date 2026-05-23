@@ -1,0 +1,5 @@
+Nombre                         Cal.       Examen     Actividad 
+------------------------------------------------------------
+Rocha Perez Dinora Marlen      95.00      Si         Si        
+Chavez Lupercio Sergio Josben  96.00      Si         No        
+Gonzalez Villanueva Ximena     98.00      Si         Si        
