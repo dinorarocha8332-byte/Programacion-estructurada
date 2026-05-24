@@ -2,12 +2,6 @@
 
 # Programación Estructurada en C
 
-**Universidad de Guadalajara** · *Centro Universitario de Ciencias Exactas e Ingenierías* **Ingeniería Informática** · *Ciclo Escolar: 2026*
-
-[![Lenguaje - C](https://img.shields.io/badge/Lenguaje-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Actividades](https://img.shields.io/badge/Actividades-12-success?style=for-the-badge)](https://github.com/dinorarocha8332-byte/Programacion-estructurada)
-[![Sección](https://img.shields.io/badge/Sección-D04-orange?style=for-the-badge)](https://github.com/dinorarocha8332-byte/Programacion-estructurada)
-
 </div>
 
 ---
@@ -151,7 +145,7 @@
 
 ### Actividad 05 — Arreglos / Vectores
 
-> Estudio de arreglos unidimensionales en C. El nombre del arreglo actúa como un puntero constante al primer elemento, por lo que no requiere el operador `&` al imprimir su dirección. El compilador reserva un bloque físico ininterrumpido en RAM con saltos exactos entre elementos según el tipo de dato.
+> Estudio de arreglos unidimensionales en C. El nombre del arreglo actúa como un puntero constante al primer elemento, por lo que no requiere el operador `&` al imprimir su dirección. El compilador reserva un block físico ininterrumpido en RAM con saltos exactos entre elementos según el tipo de dato.
 >
 > Los módulos avanzados introducen los Arreglos de Longitud Variable (VLA), donde el tamaño se define en tiempo de ejecución a partir de un valor ingresado por el usuario, y se recorren con ciclos que usan el índice como desplazador desde el puntero base.
 
