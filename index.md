@@ -2,8 +2,7 @@
 
 # Programación Estructurada en C
 
-**Universidad de Guadalajara** · *Centro Universitario de Ciencias Exactas e Ingenierías*
-**Ciclo Escolar: 2026**
+**Universidad de Guadalajara** · *Centro Universitario de Ciencias Exactas e Ingenierías* **Ingeniería Informática** · *Ciclo Escolar: 2026*
 
 [![Lenguaje - C](https://img.shields.io/badge/Lenguaje-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Actividades](https://img.shields.io/badge/Actividades-12-success?style=for-the-badge)](https://github.com/dinorarocha8332-byte/Programacion-estructurada)
@@ -15,14 +14,31 @@
 
 ## Información del Estudiante
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
-| Campo | Detalle |
-| :--- | :--- |
-| **Estudiante** | Dinora Marlen Rocha Perez |
-| **Código Universitario** | 222583328 |
-| **Sección** | D04 |
-| **Profesor** | Jorge Ernesto Lopez Arce Delgado |
+  <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 24px; min-width: 180px; text-align: left; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+    <span style="font-size: 10px; text-transform: uppercase; color: #57606a; font-weight: 600; display: block; letter-spacing: 0.5px; margin-bottom: 4px;">Estudiante</span>
+    <strong style="font-size: 15px; color: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Dinora Marlen Rocha Perez</strong>
+  </div>
+
+  <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 24px; min-width: 120px; text-align: left; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+    <span style="font-size: 10px; text-transform: uppercase; color: #57606a; font-weight: 600; display: block; letter-spacing: 0.5px; margin-bottom: 4px;">Código</span>
+    <strong style="font-size: 15px; color: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">222583328</strong>
+  </div>
+
+  <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 24px; min-width: 100px; text-align: left; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+    <span style="font-size: 10px; text-transform: uppercase; color: #57606a; font-weight: 600; display: block; letter-spacing: 0.5px; margin-bottom: 4px;">Sección</span>
+    <strong style="font-size: 15px; color: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">D04</strong>
+  </div>
+
+</div>
+
+<div align="center" style="margin-bottom: 25px;">
+
+  <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 24px; max-width: 400px; text-align: left; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+    <span style="font-size: 10px; text-transform: uppercase; color: #57606a; font-weight: 600; display: block; letter-spacing: 0.5px; margin-bottom: 4px;">Profesor</span>
+    <strong style="font-size: 15px; color: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Mtro. Jorge Ernesto Lopez Arce Delgado</strong>
+  </div>
 
 </div>
 
